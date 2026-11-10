@@ -4,12 +4,21 @@ Welcome to my programming journey!
 
 I'm a first-year university student learning programming and exploring different technologies.
 
-📚 Programming Languages & Technologies C++ — Learning the fundamentals. HTML & CSS — Learning web development. JavaScript — Exploring interactive websites. 💻 My Projects 
+📚 Programming Languages & Technologies C++ — Learning the fundamentals. HTML & CSS — Learning web development. JavaScript — Exploring interactive websites. 
 
-My projects are organized into separate repositories:
+💻 My Projects 🌐 Web Development 
 
-Web Development — My web development projects. 🎯 Goals Improve my programming skills. Build practical projects. Learn new programming languages. Develop problem-solving skills. 
+My web development learning projects.
 
-Learning step by step, building project by project.
+View Repository
+
+💻 C++ Projects 
+
+Coming soon...
+
+🐍 Python Projects 
+
+Coming soon...
+
 
 
